@@ -5,7 +5,8 @@
   - I am focused on expanding my skills in server-side technologies, machine learning, and analytics.
   My interests lie in:
     - Database management.
-    - Containerization technologies (Docker).
+    - Data manupulation and visualization.
+    - Containerization technologies.
     - Web server administration, with a specific focus on NGINX and Apache.
   - Furthermore, I am drawn to the intricate domains of data manipulation,
   visualization techniques, and machine learning algorithms.
@@ -18,7 +19,7 @@
   persistence, and unwavering dedication. Consistency and perseverance are key factors that pave the path to success,
   allowing one to overcome obstacles towards the desired outcome.
 
-My [CodeWars](https://www.codewars.com/users/Oleksii%20J.) account where I solve interesting tasks and train my decomposition techniques and problem-solving ability.
+My [CodeWars](https://www.codewars.com/users/Oleksii%20J.) account where I solve interesting tasks and train my problem-solving ability.
   Sometimes I can find unique and new solutions I've never seen before, take notes, and implement them in my projects 😉.
 
 <!---
