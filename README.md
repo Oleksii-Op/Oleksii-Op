@@ -6,10 +6,10 @@
   My interests lie in:
     - Database management.
     - Data manupulation and visualization.
+    - Machine learning algorithms.
     - Containerization technologies.
     - Web server administration, with a specific focus on NGINX and Apache.
-  - Furthermore, I am drawn to the intricate domains of data manipulation,
-  visualization techniques, and machine learning algorithms.
+
   - I recognize the complexity of these subjects and understand
   the pivotal role of mathematics in comprehending and mastering them. Therefore, I am also actively engaged in studying
   mathematics, acknowledging its indispensability in grasping the intricacies of machine learning and analytics.
