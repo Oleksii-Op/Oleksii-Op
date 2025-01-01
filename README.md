@@ -1,6 +1,10 @@
+![](https://i.ibb.co/D4xJ9wz/arch.jpg)
+
 👋 Hi, I’m Oleksii.
 
   - I am a self-taught programmer interested in math, Python programming, and learning related technologies.
+
+
 
 
 ### 🧰 Languages and Tools
